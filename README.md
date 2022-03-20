@@ -1,13 +1,12 @@
 <p align=center>
-  <img height="400px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
 <p align=center>
-  A Chemical analysis of lipophilicities & molecule drawings.
+  A chemical analysis of lipophilicities & molecule drawings including ML.
 </p>
 <br>
 <p align=center>
-  <a href="https://github.com/aurimas13/Personal-website/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-  <a href="https://github.com/aurimas13/Personal-website/blob/main/index.html"><img alt="languages" src="https://img.shields.io/github/languages/count/aurimas13/Personal-website"></a>
+  <a href="https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
   <a href="https://twitter.com/AANausedas"><img alt="twitter" src=https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
 </p>
 
@@ -25,8 +24,8 @@ This is a side project where repo includes two jupyter files ([1](https://github
 
 # Public
 
-The folder includes [**css**](https://github.com/aurimas13/Personal-website/tree/main/Public/css) *folder* that has styles and [**images**](https://github.com/aurimas13/Personal-website/tree/main/Public/images) *folder* that consists of all images used for the developed website.
-
+The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg) while additional files removed through .gitignore to save space.
+    
 # License
 
-[LICENSE](https://github.com/aurimas13/Personal-website/blob/main/LICENSE)
+[LICENSE](https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE)
