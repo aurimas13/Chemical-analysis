@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="80px" src="https://github.com/aurimas13/Personal-website/blob/main/Public/images/Aurimas-hsGCfs.png"/>
+  <img height="80px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
 <p align=center>
   A Chemical analysis of lipophilicities & molecule drawings.
