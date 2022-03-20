@@ -13,7 +13,7 @@
 
 ------
 
-This is a side project where repo includes only jupyter files with a few data files. An analysis of lipophilicities & molecule drawings are shown through simple chemistry projects that looks at lipophilicities of drug moleculess and molecule drawings through RDKit.
+This is a side project where repo includes two jupyter files ([1](https://github.com/aurimas13/Chemical-analysis/blob/main/physical_chemistry_lipophilicity.ipynb) & [2](https://github.com/aurimas13/Chemical-analysis/blob/main/drawing_molecules.ipynb)) with a few data files like [this](https://github.com/aurimas13/Chemical-analysis/blob/main/lipophilicity_model.h5). An analysis of lipophilicities & molecule drawings are shown through simple chemistry projects that looks at lipophilicities of drug moleculess and molecule drawings through RDKit.
   
 
 <p align="center">
