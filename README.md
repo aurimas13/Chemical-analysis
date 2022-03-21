@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
@@ -29,3 +30,7 @@ The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/bl
 # License
 
 [LICENSE](https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE)
+=======
+THis is a chemistry project
+xx≈
+>>>>>>> ddd6cbb (initial commit)
