@@ -38,7 +38,7 @@
   <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
 <p align=center>
-  A chemical analysis of lipophilicities & molecule drawings including ML.
+  A chemical analysis of lipophilicities & molecule drawings including a bit of ML analysis.
 </p>
 <br>
 <p align=center>
