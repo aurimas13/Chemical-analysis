@@ -16,7 +16,7 @@ This is a simple project that includes two jupyter files ([one about lipohilicit
   
 
 <p align="center">
-  Project of a chemical analysis implemeneting ML has almost been finished!
+  Project of a chemical analysis implemeneting machine learning is almost finished.
 </p>
 
 - [Public](#Public)
