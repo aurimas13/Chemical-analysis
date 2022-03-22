@@ -4,7 +4,6 @@
 
 
 
-
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
