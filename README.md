@@ -24,7 +24,7 @@ This is a simple project that includes two Jupyter files ([one about lipohilicit
 
 # Public
 
-The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg) while additional files removed to save space.
+The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg) while additional files were removed from repository to save space.
     
 # License
 
