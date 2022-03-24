@@ -1,8 +1,8 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/Smiles/blob/main/Public/happiness.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
 </p>
 <p align=center>
-  Analysis of Smiles through reservoir sampling and machine learning (under development).
+  A chemical analysis of lipophilicities & molecule drawings including a bit of ML analysis.
 </p>
 <br>
 <p align=center>
@@ -12,12 +12,10 @@
 
 ------
 
-This is a simple project that includes two Jupyter files for the analysis of Smiles ([an in-depth one](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) & [the other of reservoir sampling](https://github.com/aurimas13/Smiles/blob/main/Smiles_reservoir_sampling.ipynb)) where data files are ignored from repository. A few functions in [this](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) are written to get the tediousness out of the way.
+TThis is a simple project that includes two jupyter files ([one about lipohilicities](https://github.com/aurimas13/Chemical-analysis/blob/main/physical_chemistry_lipophilicity.ipynb) & [the other about drawing structures](https://github.com/aurimas13/Chemical-analysis/blob/main/drawing_molecules.ipynb)) with a few data files like this. An analysis of lipophilicities & molecule drawings are shown through simple chemistry projects that looks at lipophilicities of drug moleculess through ML and molecule drawings through RDKit.
     
-RDkit is a Python package that contains a lot of great functions for visualising small molecules and interpreting SMILES strings. You can even use RDkit to see if a SMILES string is valid. This function is really useful for training generative networks or reinforcement learning agents! Click [here](https://www.rdkit.org/docs/GettingStartedInPython.html) to read RDKit documentation while molecular descriptor methods can be found [here](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html). The information about RDkit is duplicated when reading [this Jupyter notebook](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb).
-
 <p align="center">
-  Project of Smiles analysis implementing machine learning is constantly updated!
+  Project of a chemical analysis implementing machine learning is almost finished.
 </p>
 
 - [Public](#Public)
@@ -25,8 +23,8 @@ RDkit is a Python package that contains a lot of great functions for visualising
 
 # Public
 
-The folder includes [**logo**](hhttps://github.com/aurimas13/Smiles/blob/main/Public/happiness.jpeg) while additional files removed through to save space.
+The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg) while additional files removed through to save space.
     
 # License
 
-[LICENSE](https://github.com/aurimas13/Smiles/blob/main/LICENSE)
+[LICENSE](https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE)
