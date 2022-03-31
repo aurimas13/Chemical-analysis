@@ -12,7 +12,7 @@
 
 ------
 
-This is a simple project that includes two Jupyter files ([one about lipophilicity](https://github.com/aurimas13/Chemical-analysis/blob/main/physical_chemistry_lipophilicity.ipynb) & [the other about drawing structures](https://github.com/aurimas13/Chemical-analysis/blob/main/drawing_molecules.ipynb)) with a few data files like this. An analysis of lipophilicity & molecule drawings are shown through simple chemistry projects that looks at lipophilicity of drug molecules through ML and molecule drawings through RDKit.
+This is a simple project that includes two Jupyter files ([one about lipophilicity](https://github.com/aurimas13/Chemical-analysis/blob/main/physical_chemistry_lipophilicity.ipynb) & [the other about drawing structures](https://github.com/aurimas13/Chemical-analysis/blob/main/drawing_molecules.ipynb)) with a few data files like this. An analysis of lipophilicity & molecule drawings are shown through simple chemistry projects that looks at lipophilicity of drug molecules through ML and molecule drawings through RDKit. 
     
 <p align="center">
   Project of a chemical analysis implementing machine learning is almost finished.
